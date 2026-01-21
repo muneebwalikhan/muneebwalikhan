@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muneeb Wali Khan</h1>
 <h3 align="center">A passionate Full Stack developer from Pakistan</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&rank=S,AAA" alt="muneebwalikhan" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muneebwalikhan&rank=S,AAA" alt="muneebwalikhan" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://muneebwalikhan.vercel.app/](https://muneebwalikhan.vercel.app/)
 
@@ -21,4 +21,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muneebwalikhan&show_icons=true&locale=en" alt="muneebwalikhan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muneebwalikhan&" alt="muneebwalikhan" /></p>
+
 
