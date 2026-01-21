@@ -18,33 +18,65 @@
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+## 👨‍💻 About Me
 
-### 👨‍💻 About Me
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 💫 Quick Info
 
 ```javascript
 const muneeb = {
     location: "Pakistan 🇵🇰",
     role: "Full Stack Developer",
-    code: ["JavaScript", "Python", "HTML", "CSS", "SQL"],
+    code: [
+        "JavaScript", 
+        "Python", 
+        "HTML/CSS", 
+        "SQL"
+    ],
     technologies: {
         frontEnd: {
-            js: ["React", "React Native", "Redux"],
-            css: ["Tailwind", "Bootstrap"]
+            js: ["React", "Redux"],
+            mobile: ["React Native"],
+            css: ["Tailwind"]
         },
         backEnd: {
-            js: ["Node.js", "Express"],
-            python: ["Flask", "Django"]
+            js: ["Node.js", "Express"]
         },
-        databases: ["MongoDB", "MySQL", "SQLite", "Firebase"],
-        misc: ["Git", "Docker", "REST APIs", "GraphQL"]
+        databases: [
+            "MongoDB", 
+            "MySQL", 
+            "Firebase"
+        ],
+        tools: [
+            "Git", 
+            "Postman", 
+            "Linux"
+        ]
     },
-    currentFocus: "Building scalable applications",
-    funFact: "I debug with console.log() 🐛"
+    currentFocus: "Building scalable apps",
+    funFact: "console.log() is my friend 🐛"
 };
 ```
 
-<br clear="right"/>
+</td>
+<td width="50%" valign="top">
+
+<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Coding GIF" width="100%"/>
+
+### 🎯 What I Do
+
+- 🔭 Develop full-stack web applications
+- 📱 Build cross-platform mobile apps
+- 🛠️ Create RESTful APIs
+- 💡 Solve complex problems
+- 🌱 Always learning new tech
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -126,30 +158,43 @@ const muneeb = {
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=muneebwalikhan&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=muneebwalikhan&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=muneebwalikhan&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muneebwalikhan&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muneebwalikhan&layout=compact&theme=radical&hide_border=true&langs_count=10" alt="Top Languages" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=muneebwalikhan&bg_color=0d1117&color=ec4899&line=ec4899&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
+  <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=muneebwalikhan&bg_color=141321&color=ec4899&line=ec4899&point=ffffff&area=true&hide_border=true&title_color=ec4899" alt="Contribution Graph" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements & Stats
+
+<div align="center">
+
+### 📈 GitHub Metrics
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Total%20Repos-50+-blue?style=for-the-badge&logo=github" alt="Total Repos"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Total%20Stars-100+-yellow?style=for-the-badge&logo=github" alt="Total Stars"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Total%20Commits-1000+-green?style=for-the-badge&logo=github" alt="Total Commits"/>
+    </td>
+  </tr>
+</table>
+
+### 🔥 Current Streak
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=muneebwalikhan&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
+  <strong>🔥 Coding Streak:</strong> Keep pushing! Check my contributions below 👇
 </p>
 
----
-
-## 🔥 Contribution Stats
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=muneebwalikhan&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true" alt="Top Contributed Repos" />
-</p>
+</div>
 
 ---
 
@@ -157,36 +202,69 @@ const muneeb = {
 
 <div align="center">
 
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=muneebwalikhan&repo=portfolio&theme=radical&hide_border=true)](https://muneebwalikhan.vercel.app/)
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Portfolio Website</h3>
+<div align="center">  
+<a href="https://muneebwalikhan.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/View_Live-FF5722?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
+</a>
+<p><strong>Tech Stack:</strong> React, Tailwind CSS, Vercel</p>
+<p>Personal portfolio showcasing all my projects and skills</p>
+</div>
+</td>
+<td width="50%">
+<h3 align="center">Full Stack App</h3>
+<div align="center">  
+<a href="https://github.com/muneebwalikhan" target="_blank">
+<img src="https://img.shields.io/badge/View_Code-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<p><strong>Tech Stack:</strong> MERN Stack, Redux</p>
+<p>Scalable web application with modern architecture</p>
+</div>
+</td>
+</tr>
+</table>
+
+<p>
+  <em>🌟 Explore more projects on my <a href="https://muneebwalikhan.vercel.app/">Portfolio</a> 🌟</em>
+</p>
 
 </div>
 
-<p align="center">
-  <em>🌟 Check out more projects on my <a href="https://muneebwalikhan.vercel.app/">Portfolio</a></em>
-</p>
+---
+
+## 🎯 Current Goals for 2026
+
+<table>
+<tr>
+<td width="50%">
+
+### 🚀 Learning & Growth
+- ✅ Master Advanced React Patterns
+- 🔄 Learn TypeScript
+- 🔄 Explore Cloud Technologies (AWS)
+- 📝 Write Technical Blogs
+- 🌟 Contribute to Open Source
+
+</td>
+<td width="50%">
+
+### 💼 Professional Goals
+- 🎯 Build 5+ Production Apps
+- 🤝 Collaborate on Major Projects
+- 📚 Share Knowledge with Community
+- 🏆 Solve 200+ LeetCode Problems
+- 💡 Create Developer Tools
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- 🚀 Building scalable applications with MERN stack
-- 💡 Best practices for React development
-- 🔧 Optimizing Node.js performance
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## 🎯 Current Goals
-
-- 🌱 Learning advanced system design patterns
-- 🚀 Contributing more to open-source projects
-- 📚 Mastering cloud technologies (AWS/Azure)
-- 💼 Building production-ready applications
-
----
-
-## 💭 Dev Quote
+## 💭 Random Dev Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
@@ -194,26 +272,56 @@ const muneeb = {
 
 ---
 
-## 🐍 Contribution Snake
+## 📈 Contribution Activity
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muneebwalikhan/muneebwalikhan/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muneebwalikhan/muneebwalikhan/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/muneebwalikhan/muneebwalikhan/output/github-contribution-grid-snake.svg">
-</picture>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=muneebwalikhan&theme=radical&hide_border=true&layout=compact" alt="Coding Activity" />
+</p>
 
 ---
 
-## 📬 Let's Connect
+## 🤝 Let's Connect & Collaborate
 
 <div align="center">
 
-I'm always open to interesting conversations and collaboration opportunities!
+### 💬 I'm always excited to discuss:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muneebwalikhan)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://muneebwalikhan.vercel.app/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muneebwali809@gmail.com)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/muneebwalikhan)
+**💻 Web Development** | **📱 Mobile Apps** | **🚀 New Technologies** | **🤝 Collaboration Opportunities**
+
+<br/>
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <a href="https://linkedin.com/in/muneebwalikhan">
+        <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+      </a>
+      <br/>
+      <sub>Let's network!</sub>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://muneebwalikhan.vercel.app/">
+        <img src="https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+      </a>
+      <br/>
+      <sub>View my work</sub>
+    </td>
+    <td align="center" width="25%">
+      <a href="mailto:muneebwali809@gmail.com">
+        <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+      </a>
+      <br/>
+      <sub>Drop a message</sub>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://leetcode.com/muneebwalikhan">
+        <img src="https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+      </a>
+      <br/>
+      <sub>Code together</sub>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -221,14 +329,12 @@ I'm always open to interesting conversations and collaboration opportunities!
 
 <div align="center">
   
-### 💡 "First, solve the problem. Then, write the code." – John Johnson
+### 💡 "Code is like humor. When you have to explain it, it's bad." – Cory House
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 
-</div>
+**Thanks for visiting! ⭐ Star some repos if you find them interesting!**
 
----
+<sub>Made with ❤️ by <a href="https://github.com/muneebwalikhan">Muneeb Wali Khan</a></sub>
 
-<div align="center">
-  <sub>⭐️ From <a href="https://github.com/muneebwalikhan">muneebwalikhan</a> | Made with ❤️ and ☕</sub>
 </div>
