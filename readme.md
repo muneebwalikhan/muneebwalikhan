@@ -60,17 +60,17 @@ I'm a passionate Full Stack Developer from Pakistan, specializing in building sc
 <div align="center">
   
 ### 🔥 Contribution Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muneebwalikhan&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<img src="https://streak-stats.demolab.com/?user=muneebwalikhan&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 ### 📈 GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api?username=muneebwalikhan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muneebwalikhan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
 
 ### 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=muneebwalikhan&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=muneebwalikhan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies"/>
 
 ### 📊 Contribution Graph
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=muneebwalikhan&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=muneebwalikhan&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph"/>
 
 </div>
 
